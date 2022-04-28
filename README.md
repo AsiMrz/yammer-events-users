@@ -11,6 +11,7 @@ For the project we used Mode. Mode gives us the oppertunity to access the data b
 We have fowllowed the folowing steps:
 
 ## 1. Setting up a dashboard in Mode
+First of all, we made a query:
 
 
 ## 2. Getting an Overview of the datasets
