@@ -19,3 +19,5 @@ First of all, we made a query:
 Because the Dataset was available on the Mode, we could access the Data easily like this:
 ![Events Table](https://github.com/AsiMrz/yammer-events-users/blob/main/Yammer_first_10_events%20table.png)
 
+## 3. exploring the Yammer users:
+
