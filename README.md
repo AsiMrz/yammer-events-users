@@ -12,6 +12,7 @@ We have fowllowed the folowing steps:
 
 ## 1. Setting up a dashboard in Mode
 First of all, we made a query:
+![Gates Picture](https://github.com/AsiMrz/)
 
 
 ## 2. Getting an Overview of the datasets
