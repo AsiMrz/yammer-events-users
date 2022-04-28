@@ -17,5 +17,5 @@ First of all, we made a query:
 
 ## 2. Getting an Overview of the datasets
 Because the Dataset was available on the Mode, we could access the Data easily like this:
-![Gates Picture](https://github.com/AsiMrz/)
+![Gates Picture](Yammer_first_10_events table.png)
 
