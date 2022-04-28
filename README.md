@@ -20,4 +20,4 @@ Because the Dataset was available on the Mode, we could access the Data easily l
 ![Events Table](https://github.com/AsiMrz/yammer-events-users/blob/main/Yammer_first_10_events%20table.png)
 
 ## 3. exploring the Yammer users:
-![Events Table](https://github.com/AsiMrz/yammer-events-users/blob/main/Yammer_first_10_users_table (2).png)
+![Events Table](https://github.com/AsiMrz/yammer-events-users/blob/main/Yammer_first_10_users_table(2).png)
