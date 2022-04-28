@@ -17,5 +17,5 @@ First of all, we made a query:
 
 ## 2. Getting an Overview of the datasets
 Because the Dataset was available on the Mode, we could access the Data easily like this:
-![Events Table](https://github.com/AsiMrz/yammer-events-users/edit/main/README.md)
+![Events Table](https://github.com/AsiMrz/yammer-events-users/find/main)
 
