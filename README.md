@@ -13,7 +13,7 @@ The first loop of the project has been done in 5 weeks from the middle of April.
 
 ## 1. Setting up a dashboard in Mode
 First of all, we made a WORKSPACE on mode and invited the members:
-![Events](https://github.com/AsiMrz/)
+![Workspace](https://github.com/AsiMrz/yammer-events-users/blob/main/Workplace-Creation.jpg)
 
 
 ## 2. Getting an Overview of the datasets
