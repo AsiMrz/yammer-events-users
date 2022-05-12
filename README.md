@@ -13,11 +13,13 @@ The first loop of the project has been done in 5 weeks from the middle of April.
 
 ## 1. Setting up a dashboard in Mode
 First of all, we made a WORKSPACE on mode and invited the members:
+
 ![Workspace](https://github.com/AsiMrz/yammer-events-users/blob/main/Workplace-Creation.jpg)
 
 
 ## 2. Getting an Overview of the datasets
-Because the Dataset was available on the Mode, we could access the Data easily like this:
+Because the Dataset was available on the Mode, we could access the Data easily by this code:
+
 ![Events Table](https://github.com/AsiMrz/yammer-events-users/blob/main/Yammer_first_10_events%20table.png)
 
 ## 3. exploring the Yammer users:
