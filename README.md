@@ -25,7 +25,7 @@ Because the Dataset was available on the Mode, we could access the Data easily b
 
 As it is shown the table contains the information about the **User_id**, the time that event **occured_at**, the user's **loction**, **device**, and the two **event-type** : sign-up and engagment with the platform which is detailed in **event_name**.
 
-### B. Yammer users:
+### B. Yammer Users
 
 ![Events Table](https://github.com/AsiMrz/yammer-events-users/blob/main/Yammer_first_10_users_table%20(2).png)
 
