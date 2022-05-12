@@ -19,8 +19,14 @@ First of all, we made a WORKSPACE on mode and invited the members:
 
 ## 2. Getting an Overview of the datasets
 Because the Dataset was available on the Mode, we could access the Data easily by this code:
+A. Yammer Events
 
 ![Events Table](https://github.com/AsiMrz/yammer-events-users/blob/main/Yammer_first_10_events%20table.png)
 
-## 3. exploring the Yammer users:
+As it is shown the table contains the information about the **User_id**, the time that event **occured_at**, the user's **loction**, **device**, and the two **event-type** : sign-up and engagment with the platform which is detailed in **event_name**.
+
+B. Yammer users:
+
 ![Events Table](https://github.com/AsiMrz/yammer-events-users/blob/main/Yammer_first_10_users_table%20(2).png)
+
+The table contains the information about the **User_id**, the first time the ID is **created_at** the user's **state**, and if s/he is active, when s/he **activated_at**and also information about the **company_id**and his/her **language**.
